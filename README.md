@@ -1,0 +1,2 @@
+# QText
+Quantum Text Classification
